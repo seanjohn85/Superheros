@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b192f560666db4af4a8cd38d3eb2ca54
+timeCreated: 1490920452
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Homoarakhn
+  fontNames:
+  - Homoarakhn
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
